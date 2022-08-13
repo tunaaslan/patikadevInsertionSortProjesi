@@ -1,3 +1,4 @@
+[Patika dev adresim](https://app.patika.dev/mctuna)
 # Insertion-Sort
 
 1.  Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
